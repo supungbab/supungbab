@@ -18,7 +18,7 @@ Backend developer / 퇴근 후엔 앱과 게임을 만듭니다
 
 #### Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supungbab&layout=compact&hide_border=true" alt="Most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supungbab&layout=compact&hide_border=true&hide_title=true&theme=transparent&disable_animations=true&card_width=420&hide=jupyter%20notebook" alt="Most used languages">
 
 #### Links
 
